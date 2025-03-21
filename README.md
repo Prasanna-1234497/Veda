@@ -1,2 +1,2 @@
 # Veda
-Veda's new sample project
+Veda's new sample projects
